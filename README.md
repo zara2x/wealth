@@ -1,3 +1,5 @@
+‼️ THIS IS CURRENTLY VIBE CODED TO SHIT SO THE ACCURACY NEEDS TO BE MANUALLY REVIEWED ‼️  
+
 # Global Wealth Flow Map
 
 This is a React-based visualization application that shows the wealth transfer patterns between countries in the Global North and Global South. It uses proper geographic mapping tools to represent the flows accurately on a world map.
