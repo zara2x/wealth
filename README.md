@@ -2,16 +2,16 @@
 
 # Global Wealth Flow Map
 
-This is a React-based visualization application that shows the wealth transfer patterns between countries in the Global North and Global South. It uses proper geographic mapping tools to represent the flows accurately on a world map.
+This is a React-based visualization application that shows the wealth transfer patterns between countries in the Global North and Global South.
 
 ## Features
+![image](https://github.com/user-attachments/assets/6ca4d323-2e06-42c2-b883-b588d393aa3d)
 
-- Interactive world map using proper geographic boundaries
+- Interactive world map using geographic boundaries
 - Visualization of different wealth flow types (profit repatriation, resource extraction, debt service, etc.)
 - Filtering by flow type
 - Detailed tooltips with country and flow information
 - Summary statistics of global wealth flows
-- Zooming and panning capabilities
 
 ## Installation
 
